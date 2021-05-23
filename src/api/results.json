@@ -1,15 +1,15 @@
 [
     {
-        "title": "Những bài hát hay nhất của Hiền Hồ",
+        "title": "Những Bài Hát Hay Nhất Của Hiền Hồ",
         "author": "Hiền Hồ",
         "description": "",
         "cover": "https://res.cloudinary.com/apk-slution/image/upload/v1621753736/music/HienHo_ei9a02.jpg",
         "Addeddate": "2019-05-06 23:29:45",
-        "Boxid": "OL100020MMM",
-        "Identifier": "ASongOfIceAndFire5ADanceWithDragons",
-        "Ocr": "ABBYY FineReader 9.0",
-        "Ppi": "600",
-        "Runtime": "200:38:15",
+        "Boxid": "",
+        "Identifier": "",
+        "Ocr": "",
+        "Ppi": "",
+        "Runtime": "38:15",
         "Source": "-",
         "Tapedby": "-",
         "Year": "-",
@@ -37,285 +37,165 @@
         ]
     },
     {
-        "title": "The Adventures of Sherlock Holmes (Version 2)",
-        "author": "Sir Arthur Conan Doyle",
-        "description": "LibriVox recording of The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle. Read by Ruth Golding.A collection of twelve short stories featuring Conan Doyle's legendary detective, originally published as single stories in Strand Magazine and subsequently collected into a single volume.There is not always a crime committed nor a culprit to find, and when there is, Holmes does not invariably get his man. However, his extraordinary powers of deduction generally solve the mystery, often to the discomfiture of the official police force. Holmes is a man of many facets, and I do not share the common perception of Holmes as cold and humourless: his sense of fun can be sparkling, and there are moments of rare pathos. (Summary by Ruth Golding)Details of the source text may be found on the LibriVox catalogue page for this item.For more free audio books or to become a volunteer reader, visit LibriVox.org.Download M4B (368MB)\n",
-        "cover": "https://ia800309.us.archive.org/9/items/adventures_sherlock_holmes_rg_librivox/Adventures_Sherlock_Holmes_V2_1209.jpg?cnt=0",
-        "Addeddate": "2010-07-15 08:52:13",
-        "Boxid": "OL100020416",
-        "Identifier": "adventures_sherlock_holmes_rg_librivox",
-        "Runtime": "13:29:27",
-        "Source": "\n              Librivox recording of a public-domain text          ",
-        "Tapedby": "\n              LibriVox          ",
-        "Year": "\n              2010          ",
+        "title": "Tuyển Tập Bài Hát Hay Nhất Của Bích Phương",
+        "author": "Bích Phương",
+        "description": "",
+        "cover": "https://res.cloudinary.com/apk-slution/image/upload/v1621759728/music/BichPhuong/BichPhuong_u5apgx.jpg",
+        "Addeddate": "2020-07-15 08:22:13",
+        "Boxid": "",
+        "Identifier": "",
+        "Runtime": "29:27",
+        "Source": "",
+        "Tapedby": "",
+        "Year": "",
         "audios": [
             {
-                "title": "01 - A Scandal in Bohemia, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_01_doyle.mp3"
+                "title": "Giúp Em Trả Lời Những Câu Hỏi",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621758704/music/BichPhuong/Giup-Em-Tra-Loi-Nhung-Cau-Hoi-Bich-Phuong_kzllc9.mp3"
             },
             {
-                "title": "02 - A Scandal in Bohemia, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_02_doyle.mp3"
+                "title": "Nụ Hồng Mong Manh",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621758709/music/BichPhuong/Nu-Hong-Mong-Manh-Bich-Phuong_canutj.mp3"
             },
             {
-                "title": "03 - The Red-Headed League, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_03_doyle.mp3"
+                "title": "Sâu Trong Em",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621758702/music/BichPhuong/Sau-Trong-Em-Bich-Phuong_wq8j2p.mp3"
             },
             {
-                "title": "04 - The Red-Headed League, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_04_doyle.mp3"
-            },
-            {
-                "title": "05 - A Case of Identity, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_05_doyle.mp3"
-            },
-            {
-                "title": "06 - A Case of Identity, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_06_doyle.mp3"
-            },
-            {
-                "title": "07 - The Boscombe Valley Mystery, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_07_doyle.mp3"
-            },
-            {
-                "title": "08 - The Boscombe Valley Mystery, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_08_doyle.mp3"
-            },
-            {
-                "title": "09 - The Five Orange Pips, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_09_doyle.mp3"
-            },
-            {
-                "title": "10 - The Five Orange Pips, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_10_doyle.mp3"
-            },
-            {
-                "title": "11 - The Man with the Twisted Lip, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_11_doyle.mp3"
-            },
-            {
-                "title": "12 - The Man with the Twisted Lip, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_12_doyle.mp3"
-            },
-            {
-                "title": "13 - The Adventure of the Blue Carbuncle, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_13_doyle.mp3"
-            },
-            {
-                "title": "14 - The Adventure of the Blue Carbuncle, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_14_doyle.mp3"
-            },
-            {
-                "title": "15 - The Adventure of the Speckled Band, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_15_doyle.mp3"
-            },
-            {
-                "title": "16 - The Adventure of the Speckled Band, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_16_doyle.mp3"
-            },
-            {
-                "title": "17 - The Adventure of the Engineer's Thumb, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_17_doyle.mp3"
-            },
-            {
-                "title": "18 - The Adventure of the Engineer's Thumb, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_18_doyle.mp3"
-            },
-            {
-                "title": "19 - The Adventure of the Noble Bachelor, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_19_doyle.mp3"
-            },
-            {
-                "title": "20 - The Adventure of the Noble Bachelor, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_20_doyle.mp3"
-            },
-            {
-                "title": "21 - The Adventure of the Beryl Coronet, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_21_doyle.mp3"
-            },
-            {
-                "title": "22 - The Adventure of the Beryl Coronet, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_22_doyle.mp3"
-            },
-            {
-                "title": "23 - The Adventure of the Copper Beeches, Part 1",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_23_doyle.mp3"
-            },
-            {
-                "title": "24 - The Adventure of the Copper Beeches, Part 2",
-                "source": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventuresholmes_24_doyle.mp3"
+                "title": "Cớ Sao Giờ Lại Chia Xa",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621758701/music/BichPhuong/Co-Sao-Gio-Lai-Chia-Xa-Bich-Phuong_z0qoxt.mp3"
             }
         ]
     },
     {
-        "title": "Ghost Story Collection 001",
-        "author": "Various",
-        "description": "LibriVox public domain Ghost Story Collection, Vol. 001.A collection of ten pieces, read by various readers, about the unreal edges of this world in legend and story; tales of love, death and beyond. If just one story prickles the hair on the back of your neck, or prickles your eyelids with the touch of tears, we will have succeeded.For more information or to volunteer, please visit librivox.org.Download M4B (93mb)\n",
-        "cover": "https://ia902605.us.archive.org/27/items/ghost_stories_001_librivox/Ghost_Story_Collection_1_1002.jpg?cnt=0",
-        "Addeddate": "2006-08-20 08:44:44",
-        "Boxid": "OL100020607",
-        "Identifier": "ghost_stories_001_librivox",
-        "Ocr": "ABBYY FineReader 9.0",
-        "Ppi": "600",
-        "Runtime": "4:38:15",
-        "Source": "\n              Librivox recording of a public-domain text          ",
-        "Tapedby": "\n              LibriVox          ",
-        "Year": "\n              2006          ",
+        "title": "Tuyển Tập Sơn Tùng M-TP",
+        "author": "Sơn Tùng",
+        "description": "",
+        "cover": "https://res.cloudinary.com/apk-slution/image/upload/v1621767580/music/SonTung/tuyentapSonTungM-TP_bahrnu.jpg",
+        "Addeddate": "2021-05-20 08:44:44",
+        "Boxid": "",
+        "Identifier": "",
+        "Ocr": "",
+        "Ppi": "",
+        "Runtime": "38:15",
+        "Source": "",
+        "Tapedby": "",
+        "Year": "",
         "audios": [
             {
-                "title": "The Empty House",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-empty_house_blackwood_wsc.mp3"
+                "title": "Muộn Rồi Mà Sao Còn",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768182/music/SonTung/muonroimasaocon_xep5kk.mp3"
             },
             {
-                "title": "The Judge's House",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-judges_house_stoker_wsc.mp3"
+                "title": "Cơn Mưa Ngang Qua",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767901/music/SonTung/ConMuaNgangQua-SonTungMTP-2944936_i7qkrc.mp3"
             },
             {
-                "title": "Laura",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-laura_saki_pe.mp3"
+                "title": "Như Ngày Hôm Qua",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767900/music/SonTung/NhuNgayHomQuaUpgrade-SonTungMTP-4282962_ub38we.mp3"
             },
             {
-                "title": "Man-size in Marble",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-man_size_in_marble_nesbit_ajm.mp3"
+                "title": "Không Phải Dạng Vừa Đâu",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767812/music/SonTung/KhongPhaiDangVuaDau-SonTungMTP-3753840_s9dcju.mp3"
             },
             {
-                "title": "Phantasmagoria",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-phantasmagoria_carroll_dg.mp3"
+                "title": "Buông Đôi Tay Nhau Ra",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767812/music/SonTung/BuongDoiTayNhauRa-SonTungMTP-4184408_fn20hk.mp3"
             },
             {
-                "title": "Schalken the Painter",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-schalken_the_painter_lefanu_ge.mp3"
+                "title": "Em Của Ngày Hôm Qua",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767810/music/SonTung/EmCuaNgayHomQua-SonTungMTP-2882720_yxdba8.mp3"
             },
             {
-                "title": "Shadows on the Wall",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-shadows_on_the_wall_freeman_blb.mp3"
+                "title": "Chúng Ta Không Thuộc Về Nhau",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767810/music/SonTung/ChungTaKhongThuocVeNhau-SonTungMTP-4528181_uxx61h.mp3"
             },
             {
-                "title": "Tales of Treasure",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-tales_of_treasure_anon_bd.mp3"
-            },
-            {
-                "title": "The Trial for Murder",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-trial_for_murder_dickens_cl.mp3"
-            },
-            {
-                "title": "Uncle Abraham's Romance",
-                "source": "https://archive.org/download/ghost_stories_001_librivox/gs001-uncle_abrahams_romance_nesbit_py.mp3"
+                "title": "Hãy Trao Cho Anh",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621767689/music/SonTung/HayTraoChoAnh-SonTungMTPSnoopDogg-6010660_oaxja6.mp3"
             }
         ]
     },
     {
-        "title": "Beowulf",
-        "author": "Anonymous",
-        "description": "LibriVox recording of Beowulf, translated by Francis Barton Gummere (1855-1919).This is a short but beautiful book, and the Gummere translation really captures the feel of the Old English. Beowulf tells the story of a mysterious young warrior who saves the Spear-Danes from the terrible monster Grendel and his venomous mother. Long a mainstay of English Literature 101 courses at universities around the world, it is not only one of the oldest, but one of the most exciting English folktales ever invented. The sections are all short -- no more than 10 pages each -- and contain several sections of the poemFor further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox catalog page for this recording.For more free audio books or to become a volunteer reader, visit LibriVox.org.Download M4B (43MB)\n",
-        "cover": "https://ia800703.us.archive.org/3/items/beowulf/Beowulf.jpg?cnt=0",
-        "Addeddate": "2006-09-25 16:57:31",
-        "Boxid": "OL100020014",
-        "Identifier": "beowulf",
-        "Ocr": "ABBYY FineReader 9.0",
-        "Ppi": "600",
-        "Runtime": "2:52:39",
-        "Source": "\n              Librivox recording of a public-domain text          ",
-        "Tapedby": "\n              LibriVox          ",
-        "Year": "\n              2006          ",
+        "title": "Những Bài Hát Hay Nhất Của Jack",
+        "author": "Jack",
+        "description": "",
+        "cover": "https://res.cloudinary.com/apk-slution/image/upload/v1621768692/music/Jack/jack_thpjla.jpg",
+        "Addeddate": "2020-09-25 16:57:31",
+        "Boxid": "",
+        "Identifier": "",
+        "Ocr": "",
+        "Ppi": "",
+        "Runtime": "22:39",
+        "Source": "",
+        "Tapedby": "",
+        "Year": "",
         "audios": [
             {
-                "title": "Beowulf - Section 01",
-                "source": "https://archive.org/download/beowulf/beowulf_01_gummere.mp3"
+                "title": "Đom Đóm",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768730/music/Jack/Dom-Dom-Jack_hrunid.mp3"
             },
             {
-                "title": "Beowulf - Section 02",
-                "source": "https://archive.org/download/beowulf/beowulf_02_gummere.mp3"
+                "title": "Sóng Gió",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768734/music/Jack/Song-Gio-Jack__K-ICM_braypx.mp3"
             },
             {
-                "title": "Beowulf - Section 03",
-                "source": "https://archive.org/download/beowulf/beowulf_03_gummere.mp3"
+                "title": "Bạc Phận",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768729/music/Jack/Bac-Phan-Jack__K-ICM_z6yr2q.mp3"
             },
             {
-                "title": "Beowulf - Section 04",
-                "source": "https://archive.org/download/beowulf/beowulf_04_gummere.mp3"
+                "title": "Hồng Nhan",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768729/music/Jack/Hong-Nhan-Jack_iokeri.mp3"
             },
             {
-                "title": "Beowulf - Section 05",
-                "source": "https://archive.org/download/beowulf/beowulf_05_gummere.mp3"
+                "title": "Hoa Hải Đường",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621768728/music/Jack/Hoa-Hai-Duong-Jack_s5cov3.mp3"
             },
             {
-                "title": "Beowulf - Section 06",
-                "source": "https://archive.org/download/beowulf/beowulf_06_gummere.mp3"
-            },
-            {
-                "title": "Beowulf - Section 07",
-                "source": "https://archive.org/download/beowulf/beowulf_07_gummere.mp3"
-            },
-            {
-                "title": "Beowulf - Section 08",
-                "source": "https://archive.org/download/beowulf/beowulf_08_gummere.mp3"
+                "title": "Sao Em Vô Tình",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769097/music/Jack/SaoEmVoTinhTruzgbeatXLonGRemix-JackG5RKICMLiamDJ-5978509_bwlr0e.mp3"
             }
         ]
     },
     {
-        "title": "Alice's Adventures in Wonderland, by Lewis Carroll",
-        "author": "Lewis Carroll",
-        "description": "Librivox recording of Alice's Adventures in Wonderland, by Lewis Carroll.  A children's classic!Read by:Chapter 01 Kristen McQuillinChapter 02 Brad BushChapter 03 Roger W. BarnettChapter 04 Miette Chapter 05 Mark BradfordChapter 06 Raza Shah Chapter 07 Kara ShallenbergChapter 08 Kristen McQuillin Chapter 09 MarinaMechanicalChapter 10 Roger W. BarnettChapter 11 R. Francis Smith Chapter 12 Chris Goringe For further information, including links to online text, reader information, RSS feeds, CD cover or other formats (if available), please go to the LibriVox catalog page for this recording.For more information or to become a volunteer reader, please visit librivox.org/Download M4B (84MB)\n",
-        "cover": "https://ia600707.us.archive.org/8/items/alice_in_wonderland_librivox/Alice_in_Wonderland.jpg?cnt=0",
-        "Addeddate": "2006-01-11 03:35:33",
-        "Boxid": "OL100020308",
-        "Identifier": "alice_in_wonderland_librivox",
-        "Ocr": "ABBYY FineReader 9.0",
-        "Ppi": "600",
-        "Runtime": "2:58:51",
-        "Source": "\n              Librivox recording of Gutenberg e-text #11          ",
-        "Tapedby": "\n              Librivox          ",
-        "Year": "\n              2006          ",
+        "title": "Tuyển Tập Những Bài Hát Hay Nhất Của Bùi Anh Tuấn",
+        "author": "Bùi Anh Tuấn",
+        "description": "",
+        "cover": "https://res.cloudinary.com/apk-slution/image/upload/v1621769411/music/BuiAnhTuan/tuyentapBuiAnhTuan_a15b3i.jpg",
+        "Addeddate": "2020-01-11 03:35:33",
+        "Boxid": "",
+        "Identifier": "",
+        "Ocr": "",
+        "Ppi": "",
+        "Runtime": "18:51",
+        "Source": "",
+        "Tapedby": "",
+        "Year": "",
         "audios": [
             {
-                "title": "wonderland_ch_01",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_01.mp3"
+                "title": "Cưới Nhau Đi",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769674/music/BuiAnhTuan/cuoinhaudi_dppqod.mp3"
             },
             {
-                "title": "wonderland_ch_02",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_02.mp3"
+                "title": "Nơi Tình Yêu Bắt Đầu",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769676/music/BuiAnhTuan/NoiTinhYeuBatDau-BuiAnhTuan-1915267_t2sr2z.mp3"
             },
             {
-                "title": "wonderland_ch_03",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_03.mp3"
+                "title": "Lặng Yên Lặng Yên Dưới Vực Sâu",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769254/music/BuiAnhTuan/Lang-Yen-Lang-Yen-Duoi-Vuc-Sau-OST-Bui-Anh-Tuan-Ai-Phuong_yzklwr.mp3"
             },
             {
-                "title": "wonderland_ch_04",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_04.mp3"
+                "title": "Người Duy Nhất",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769249/music/BuiAnhTuan/Nguoi-Duy-Nhat-Bui-Anh-Tuan_slmgvn.mp3"
             },
             {
-                "title": "wonderland_ch_05",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_05.mp3"
+                "title": "Hẹn Một Mai",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769247/music/BuiAnhTuan/Hen-Mot-Mai-4-Nam-2-Chang-1-Tinh-Yeu-OST-Bui-Anh-Tuan_hwwsdd.mp3"
             },
             {
-                "title": "wonderland_ch_06",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_06.mp3"
-            },
-            {
-                "title": "wonderland_ch_07",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_07.mp3"
-            },
-            {
-                "title": "wonderland_ch_08",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_08.mp3"
-            },
-            {
-                "title": "wonderland_ch_09",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_09.mp3"
-            },
-            {
-                "title": "wonderland_ch_10",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_10.mp3"
-            },
-            {
-                "title": "wonderland_ch_11",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_11.mp3"
-            },
-            {
-                "title": "wonderland_ch_12",
-                "source": "https://archive.org/download/alice_in_wonderland_librivox/wonderland_ch_12.mp3"
-            }
+                "title": "Đã Từng",
+                "source": "https://res.cloudinary.com/apk-slution/video/upload/v1621769243/music/BuiAnhTuan/Da-Tung-Bui-Anh-Tuan-Duong_Hoang-Yen_h90gvf.mp3"
+            } 
         ]
     },
     {

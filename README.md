@@ -14,14 +14,8 @@ npm run start
 # Scan QR code from the browser page
 ```
 For more details on expo, visit [docs](https://docs.expo.io)
-<!-- 
+
 ### Screenshots of app
 
-![](https://github.com/manjillama/audio-book-app/blob/master/assets/ss1.PNG)
-![alt tag](https://github.com/manjillama/audio-book-app/blob/master/assets/ss2.PNG)
-![alt tag](https://github.com/manjillama/audio-book-app/blob/master/assets/ss3.PNG)
-![alt tag](https://github.com/manjillama/audio-book-app/blob/master/assets/ss4.PNG)
-![alt tag](https://github.com/manjillama/audio-book-app/blob/master/assets/ss5.PNG)
-
-## Author
-[Manjil Tamang](https://www.linkedin.com/in/manjiltamang/) -->
+![alt tag](https://res.cloudinary.com/apk-slution/image/upload/v1621770632/music/ScreenshotsOfApp/186522386_823113218315314_7083299349517085831_n_u4436p.png)
+![alt tag](https://res.cloudinary.com/apk-slution/image/upload/v1621770631/music/ScreenshotsOfApp/186551623_460923128540037_4731950367069121186_n_ly6brb.png)
